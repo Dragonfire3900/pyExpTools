@@ -1,0 +1,4 @@
+/.eggs
+/.pytest_cache
+/pyExpTools.egg-info
+/venv
